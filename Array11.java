@@ -1,5 +1,8 @@
+// run status : true
+
 import java.util.Scanner;
 
+// find the index of a perticular element
 class Arrray11
 {
 	public static void main(String[] args) {
