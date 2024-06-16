@@ -1,3 +1,5 @@
+// run status : true
+
 import java.util.Scanner;
 
 // finding the max element of an array
