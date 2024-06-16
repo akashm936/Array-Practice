@@ -1,3 +1,5 @@
+// run status : true
+
 import java.util.Scanner;
 
 // find the min value form the an array
