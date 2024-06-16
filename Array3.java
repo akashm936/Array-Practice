@@ -16,11 +16,17 @@ class Array3
 
 		System.out.println("Enter the size of array :");
 		int size = sc.nextInt();
-		int []arr = new int[size];
+		int []arr1 = new int[size];
+		// String []arr2 = new String[size];
+		// float []arr3 = new float[size];
+		// boolean []arr4 = new boolean[size];
 
 		for(int i=0;i<size;i++)
 		{
-			System.out.println(arr[i]);
+			System.out.print(arr1[i]+ " ");
+			// System.out.println(arr2[i]);
+			// System.out.println(arr3[i]);
+			// System.out.println(arr4[i]);
 		}
 
 		
